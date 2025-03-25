@@ -5,7 +5,7 @@ Analysis of the Car Evaluation
 -Ömer Doğan
 -İbrahim Çelik 
 
-Abstract
+Abstract:
 This report is prepared to analyze the Car Evaluation dataset. Data preprocessing, association rule mining, clustering, and classification techniques have been applied, and the results have been evaluated. The report highlights key insights into the dataset by comparing the performance of various algorithms.
 
 1.	Introduction
